@@ -1,0 +1,16 @@
+{
+  "name": "payment-monitoring-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/json-server/lib/cli/bin.js --watch db.json --port 5000 -m ./node_modules/json-server-auth",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "json-server-auth": "^2.1.0"
+  }
+}
