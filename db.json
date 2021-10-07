@@ -40,9 +40,7 @@
       "no_rek_penerima": "15000757050",
       "tgl_request": "Wed Sep 15 2021 19:27:22 GMT+0700 (Western Indonesia Time)",
       "status_request": "Menunggu Konfirmasi General Support",
-      "action": [
-        "menunggu konfirmasi"
-      ],
+      "action": ["menunggu konfirmasi"],
       "id": "EpcUXbU"
     },
     {
@@ -55,9 +53,7 @@
       "no_rek_penerima": "15000757050",
       "tgl_request": "Wed Sep 15 2021 19:27:22 GMT+0700 (Western Indonesia Time)",
       "status_request": "Menunggu Konfirmasi General Support",
-      "action": [
-        "menunggu konfirmasi"
-      ],
+      "action": ["menunggu konfirmasi"],
       "id": "W-dGCKx"
     },
     {
@@ -70,9 +66,7 @@
       "tgl_request": "Fri Sep 17 2021 19:21:28 GMT+0700 (Western Indonesia Time)",
       "tgl_pembayaran": "2021-09-17 22:24",
       "status_request": "",
-      "action": [
-        "menunggu konfirmasi"
-      ],
+      "action": ["menunggu konfirmasi"],
       "id": "bC7QuXF"
     },
     {
@@ -85,10 +79,9 @@
       "tgl_request": "Fri Sep 17 2021 20:10:02 GMT+0700 (Western Indonesia Time)",
       "tgl_pembayaran": "2021-09-25 23:10",
       "status_request": "",
-      "action": [
-        "menunggu konfirmasi"
-      ],
+      "action": ["menunggu konfirmasi"],
       "id": "C-aYzLg"
     }
-  ]
+  ],
+  "buatTesting": [{ "id": "123", "data": "test" }]
 }
