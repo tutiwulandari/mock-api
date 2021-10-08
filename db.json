@@ -55,8 +55,20 @@
       "kecamatan_customer": "Buahbatu",
       "alamat_lengkap": "Jl. telekomunikasi No. 1",
       "nominal_transaksi": 10000000,
-      "status": "0",
+      "status": "2",
       "id": 2
+    },
+
+    {
+      "created_date": "Wed Sep 15 2021 22:44:08 GMT+0700 (Indochina Time)",
+      "jenis_transaksi": "setoran-pinjaman",
+      "provinsi_customer": "Jawa Barat",
+      "kabupaten_customer": "Kota Bandung",
+      "kecamatan_customer": "Buahbatu",
+      "alamat_lengkap": "Jl. telekomunikasi No. 1",
+      "nominal_transaksi": 10000000,
+      "status": "0",
+      "id": 3
     }
   ]
 }
