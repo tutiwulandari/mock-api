@@ -1,22 +1,12 @@
 {
   "users": [
     {
-      "username": "kams@gmail.com",
-      "password": "$2a$10$YfOYReTDLQP7TqTNDjuzpewtICvh00sMRY6f2llMJYpyAKAOrlNRG",
-      "login_as": 1,
-      "id": 1
-    },
-    {
-      "username": "ablakubluk@yopmail.com",
-      "password": "$2a$10$mQxouf8gBvVeKPYgLwXZxe9/VSBzjIPvSyidV/Ym6zSfTGtplC2u2",
-      "login_as": 1,
-      "id": 2
-    },
-    {
+      "name" : "Tuti Wulandari",
+      "noHp" : "085323182016",
       "username": "tutiwulandari@gmail.com",
       "password": "$2a$10$qfaa4nBzPnSpNb7wjXN3puvJt2BnMscBzVxzoAH0OzYgi81X6I9.W",
       "login_as": 1,
-      "id": 3
+      "id": 1
   }
   ],
   "loginUnitKerja": [
