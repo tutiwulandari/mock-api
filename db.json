@@ -35,59 +35,28 @@
       "id": "GSFE3ZZ"
     }
   ],
-  "paymentRequest": [
+  "transactions": [
     {
-      "diminta_oleh": "Asep Sunandar",
-      "keperluan": "SPP Juli 2020",
-      "tgl_pembayaran": "2021-09-20 19:27",
-      "jumlah_payment": "Rp. 1.000.000",
-      "terbilang": "Satu Juta Rupiah",
-      "nama_rek_penerima": "MD, Mubarokul Huda",
-      "no_rek_penerima": "15000757050",
-      "tgl_request": "Wed Sep 15 2021 19:27:22 GMT+0700 (Western Indonesia Time)",
-      "status_request": "Menunggu Konfirmasi General Support",
-      "action": ["menunggu konfirmasi"],
-      "id": "EpcUXbU"
+      "created_date": "Wed Sep 15 2021 23:17:53 GMT+0900 (Eastern Indonesia Time)",
+      "jenis_transaksi": "setoran-uang",
+      "provinsi_customer": "Jawa Tengah",
+      "kabupaten_customer": "Kudus",
+      "kecamatan_customer": "Kudus",
+      "alamat_lengkap": "fffgghhh",
+      "nominal_transaksi": 11111,
+      "status": "0",
+      "id": 1
     },
     {
-      "diminta_oleh": "Asep Sunandar",
-      "keperluan": "SPP Juli 2020",
-      "tgl_pembayaran": "2021-09-20 19:27",
-      "jumlah_payment": "Rp. 1.000.000",
-      "terbilang": "Satu Juta Rupiah",
-      "nama_rek_penerima": "MD, Mubarokul Huda",
-      "no_rek_penerima": "15000757050",
-      "tgl_request": "Wed Sep 15 2021 19:27:22 GMT+0700 (Western Indonesia Time)",
-      "status_request": "Menunggu Konfirmasi General Support",
-      "action": ["menunggu konfirmasi"],
-      "id": "W-dGCKx"
-    },
-    {
-      "diminta_oleh": "john doe",
-      "keperluan": "",
-      "jumlah_payment": "10000000",
-      "terbilang": "Satu juta rupiah",
-      "nama_rek_penerima": "Reno Putra P",
-      "no_rek_penerima": "1241231231231",
-      "tgl_request": "Fri Sep 17 2021 19:21:28 GMT+0700 (Western Indonesia Time)",
-      "tgl_pembayaran": "2021-09-17 22:24",
-      "status_request": "",
-      "action": ["menunggu konfirmasi"],
-      "id": "bC7QuXF"
-    },
-    {
-      "diminta_oleh": "Reno",
-      "keperluan": "",
-      "jumlah_payment": "10000000",
-      "terbilang": "Satu juta",
-      "nama_rek_penerima": "Prawira",
-      "no_rek_penerima": "123781263127893",
-      "tgl_request": "Fri Sep 17 2021 20:10:02 GMT+0700 (Western Indonesia Time)",
-      "tgl_pembayaran": "2021-09-25 23:10",
-      "status_request": "",
-      "action": ["menunggu konfirmasi"],
-      "id": "C-aYzLg"
+      "created_date": "Wed Sep 15 2021 22:44:08 GMT+0700 (Indochina Time)",
+      "jenis_transaksi": "setoran-pinjaman",
+      "provinsi_customer": "Jawa Barat",
+      "kabupaten_customer": "Kota Bandung",
+      "kecamatan_customer": "Buahbatu",
+      "alamat_lengkap": "Jl. telekomunikasi No. 1",
+      "nominal_transaksi": 10000000,
+      "status": "0",
+      "id": 2
     }
-  ],
-  "buatTesting": [{ "id": "123", "data": "test" }]
+  ]
 }
