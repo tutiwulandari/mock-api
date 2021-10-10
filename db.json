@@ -13,11 +13,10 @@
       "id": 3
   },
   {
-    "email": "wulandari@gmail.com",
-    "password": "tahubulatdigorengdadakan",
-    "login_as" : "1",
-    "id": 4
-
+    "email": "wulandari123@gmail.com",
+    "password": "$2a$12$tT64XqQcyeb4jWzwB/SUUuCWX26JfMcX2tenUOZmgHeuqTOi1uhNi",
+    "login_as": "1",
+    "id": 3
 }
   ],
   "loginUnitKerja": [
