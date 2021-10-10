@@ -1,19 +1,19 @@
 {
   "users": [
     {
-      "username": "kams@gmail.com",
+      "email": "kams@gmail.com",
       "password": "$2a$10$YfOYReTDLQP7TqTNDjuzpewtICvh00sMRY6f2llMJYpyAKAOrlNRG",
       "login_as": 1,
       "id": 1
     },
     {
-      "username": "ablakubluk@yopmail.com",
+      "email": "ablakubluk@yopmail.com",
       "password": "$2a$10$mQxouf8gBvVeKPYgLwXZxe9/VSBzjIPvSyidV/Ym6zSfTGtplC2u2",
       "login_as": 1,
       "id": 2
     },
     {
-      "username": "tutiwulandari@gmail.com",
+      "email": "tutiwulandari@gmail.com",
       "password": "$2a$10$qfaa4nBzPnSpNb7wjXN3puvJt2BnMscBzVxzoAH0OzYgi81X6I9.W",
       "login_as": 2,
       "id": 3
