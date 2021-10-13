@@ -70,6 +70,16 @@
       "status": "0",
       "id": 3
     }
+  ],
+  "registerAgent" :[
+    {
+      "username": "wahyuningtyas",
+      "password": "wahyuningtyas",  
+      "agentName": "Agent BRILINK", 
+      "noHandphone": "085707121623",
+      "districtId": "3578030", 
+      "address": "Jalan Gayungsari Barat 9/14" 
+  }
   ]
   
 }
