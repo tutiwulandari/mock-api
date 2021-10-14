@@ -1,19 +1,19 @@
 {
   "users": [
     {
-      "email": "kams@gmail.com",
+      "username": "kams@gmail.com",
       "password": "$2a$10$YfOYReTDLQP7TqTNDjuzpewtICvh00sMRY6f2llMJYpyAKAOrlNRG",
       "role": 1,
       "id": 1
     },
     {
-      "email": "tutiwulandari@gmail.com",
+      "username": "customer",
       "password": "$2a$10$qfaa4nBzPnSpNb7wjXN3puvJt2BnMscBzVxzoAH0OzYgi81X6I9.W",
       "role": 2,
       "id": 3
   },
   {
-    "email": "wulandari123@gmail.com",
+    "username": "agent",
     "password": "$2a$10$84TiyJFt81xEi4tIOOTefOZkJdFg0lEp1243dZ94f9jGpHGvcmBjW",
     "role": 1,
     "id": 3
