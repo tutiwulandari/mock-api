@@ -323,7 +323,157 @@
       "districtId": "3578030",
       "amount": 150000,
       "statusTransaction": 1
-  }
+  },
+  {
+    "createdAt": "2021-10-14T02:14:29.782+07:00",
+    "id": 2,
+    "transactionType": {
+        "serviceTypeTransaction": {
+            "Id": 1,
+            "nameServiceTransaction": "Laku Pandai"
+        },
+        "nameTransactionType": "Report"
+    },
+    "userCustomer": {
+        "customer": {
+            "Name": "Ahmad Irfaan",
+            "NoHandphone": "085707121623"
+        }
+    },
+    "userAgent": {
+        "agent": {
+            "agentName": "Agent BRILINK",
+            "DistrictId": "3578030",
+            "address": "Jalan Gayungsari Barat 9/14",
+            "NoHandphone": "085707121623",
+            "rating": null
+        }
+    },
+    "address": "Jalan Gayungsari Barat 9/14",
+    "districtId": "3578030",
+    "amount": 150000,
+    "statusTransaction": 0
+},
+{
+    "createdAt": "2021-10-14T02:14:38.579+07:00",
+    "id": 3,
+    "transactionType": {
+        "serviceTypeTransaction": {
+            "Id": 1,
+            "nameServiceTransaction": "Laku Pandai"
+        },
+        "nameTransactionType": "Isi Ulang Pulsa"
+    },
+    "userCustomer": {
+        "customer": {
+            "Name": "Ahmad Irfaan",
+            "NoHandphone": "085707121623"
+        }
+    },
+    "userAgent": {
+        "agent": {
+            "agentName": "Agent BRILINK",
+            "DistrictId": "3578030",
+            "address": "Jalan Gayungsari Barat 9/14",
+            "NoHandphone": "085707121623",
+            "rating": null
+        }
+    },
+    "address": "Jalan Gayungsari Barat 9/14",
+    "districtId": "3578030",
+    "amount": 190000,
+    "statusTransaction": 0
+},
+{
+    "createdAt": "2021-10-14T08:03:29.908+07:00",
+    "id": 4,
+    "transactionType": {
+        "serviceTypeTransaction": {
+            "Id": 2,
+            "nameServiceTransaction": "Tunai"
+        },
+        "nameTransactionType": "Tarik Tunai"
+    },
+    "userCustomer": {
+        "customer": {
+            "Name": "Ahmad Irfaan",
+            "NoHandphone": "085707121623"
+        }
+    },
+    "userAgent": {
+        "agent": {
+            "agentName": "Agent BRILINK",
+            "DistrictId": "3578030",
+            "address": "Jalan Gayungsari Barat 9/14",
+            "NoHandphone": "085707121623",
+            "rating": null
+        }
+    },
+    "address": "Jalan Gayungsari Barat 9/14",
+    "districtId": "3578030",
+    "amount": 190000,
+    "statusTransaction": 0
+},
+{
+    "createdAt": "2021-10-15T01:38:27.711+07:00",
+    "id": 5,
+    "transactionType": {
+        "serviceTypeTransaction": {
+            "Id": 2,
+            "nameServiceTransaction": "Tunai"
+        },
+        "nameTransactionType": "Tarik Tunai"
+    },
+    "userCustomer": {
+        "customer": {
+            "Name": "Ahmad Irfaan",
+            "NoHandphone": "085707121623"
+        }
+    },
+    "userAgent": {
+        "agent": {
+            "agentName": "Agent BRILINK",
+            "DistrictId": "3578030",
+            "address": "Jalan Gayungsari Barat 9/14",
+            "NoHandphone": "085707121623",
+            "rating": null
+        }
+    },
+    "address": "Jalan Gayungsari Barat 9/14",
+    "districtId": "3578030",
+    "amount": 190000,
+    "statusTransaction": 0
+},
+{
+    "createdAt": "2021-10-15T02:12:00.409+07:00",
+    "id": 6,
+    "transactionType": {
+        "serviceTypeTransaction": {
+            "Id": 2,
+            "nameServiceTransaction": "Tunai"
+        },
+        "nameTransactionType": "Tarik Tunai"
+    },
+    "userCustomer": {
+        "customer": {
+            "Name": "Ahmad Irfaan",
+            "NoHandphone": "085707121623"
+        }
+    },
+    "userAgent": {
+        "agent": {
+            "agentName": "Agent BRILINK",
+            "DistrictId": "3578030",
+            "address": "Jalan Gayungsari Barat 9/14",
+            "NoHandphone": "085707121623",
+            "rating": null
+        }
+    },
+    "address": "Jalan Gayungsari Barat 9/14",
+    "districtId": "3578030",
+    "amount": 190000,
+    "statusTransaction": 0
+}
   ]
   
 }
