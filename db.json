@@ -473,7 +473,38 @@
     "districtId": "3578030",
     "amount": 190000,
     "statusTransaction": 3
+},
+{
+    "createdAt": "2021-10-15T02:12:00.409+07:00",
+    "id": 7,
+    "transactionType": {
+        "serviceTypeTransaction": {
+            "Id": 2,
+            "nameServiceTransaction": "Tunai"
+        },
+        "nameTransactionType": "Tarik Tunai"
+    },
+    "userCustomer": {
+        "customer": {
+            "Name": "Ahmad Irfaan",
+            "NoHandphone": "085707121623"
+        }
+    },
+    "userAgent": {
+        "agent": {
+            "agentName": "Agent BRILINK",
+            "DistrictId": "3578030",
+            "address": "Jalan Gayungsari Barat 9/14",
+            "NoHandphone": "085707121623",
+            "rating": 4
+        }
+    },
+    "address": "Jalan Gayungsari Barat 9/14",
+    "districtId": "3578030",
+    "amount": 190000,
+    "statusTransaction": 0
 }
   ]
+  
   
 }
